@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Geoffrey
 - 👀 I’m interested in many fields such as art, painting, code, science, etc.
 - 🌱 I’m currently learning decentralization web app.
+
+
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
